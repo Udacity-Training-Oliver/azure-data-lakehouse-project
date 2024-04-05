@@ -41,7 +41,7 @@ Based on these requirements the following star schema has been designed:
 Queries that show how these requirements have been fullfilled can be found in the notebook [04_queries.ipynb](./04_queries.ipynb).
 
 ## Databricks Cluster Configuration.
-For all Azure Databricks workloads my personal Visual Studio Enterprise benefits have been used. The screenshot shows the compute cluster that have been used:
+For all Azure Databricks workloads my personal Visual Studio Enterprise benefits have been used. The screenshot shows the compute cluster that has been configured for this task:
 
 ![Databricks Cluster Configuration](./images/cluster_configuration.png)
 
